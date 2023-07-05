@@ -1,0 +1,1 @@
+# Yazilim-Test-Egitimi-Web-Uygulama-Test-Pratigi
