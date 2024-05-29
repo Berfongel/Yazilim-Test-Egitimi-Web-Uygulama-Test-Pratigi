@@ -10,7 +10,7 @@ https://yazilimtestegitimi.com/webtestalistirmasi/ sayfasındaki hatalar:
 6- Blog yazısının altındaki >Test Alıştırmaları>Web Uygulama Testi – Baslangic yazan kısmın >Test Alıştırmaları> Web Uygulama Testi – Başlangıç olarak düzeltilmesi gerekiyor.
 7- Bilgiler yazısının altındaki Beyazit Istanbul yazısı Beyazıt İstanbul olarak düzeltilmesi gerekiyor.
 8- Email Gönder yazısı E-mail Gönder olarak düzeltilmesi gerekiyor.
-9- https://yazilimtestegitimi.com/web-uygulama-testi/# sayfasının en alt kısımdaki ÜCRETSIZ VİDEO VE MAKELELERE ERİŞ yazıyı ÜCRETSİZ VİDEO VE MAKALELERE ERİŞ olarak düzeltilmesi gerekiyor.
+9- https://yazilimtestegitimi.com/web-uygulama-testi/# sayfasının en alt kısımdaki ÜCRETSIZ VİDEO VE MAKELELERE ERİŞ yazısı ÜCRETSİZ VİDEO VE MAKALELERE ERİŞ olarak düzeltilmesi gerekiyor.
 
 
 
