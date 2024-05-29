@@ -9,4 +9,6 @@ https://yazilimtestegitimi.com/webtestalistirmasi/ sayfasındaki hatalar:
 5- Telefon: +05543405488 yazan kısmın Telefon: +905543405488 olarak düzeltilmesi gerekiyor.
 6- Blog yazısının altındaki >Test Alıştırmaları>Web Uygulama Testi – Baslangic yazan kısmın >Test Alıştırmaları> Web Uygulama Testi – Başlangıç olarak düzeltilmesi gerekiyor.
 7- Bilgiler yazısının altındaki Beyazit Istanbul yazısı Beyazıt İstanbul olarak düzeltilmesi gerekiyor.
+8- Email Gönder yazısı E-mail Gönder olarak düzeltilmesi gerekiyor.
+
 
